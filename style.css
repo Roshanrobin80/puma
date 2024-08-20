@@ -16,3 +16,12 @@
 .btn{
     position: absolute;
 }
+.banner2{
+    position: relative;
+}
+.sub{
+    position: absolute;
+    top: 20%;
+    left: 15%;
+
+}
