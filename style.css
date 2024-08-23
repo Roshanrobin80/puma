@@ -13,8 +13,26 @@
 .banner{
     padding-bottom: 95px;
 }
-.btn{
+.bt{
     position: absolute;
+    left: 79%;
+    top: 55%;
+    border-color: white;
+}
+
+.bt1{
+    position: absolute;
+    left: 85%;
+    top: 55%;
+    border-color: white;
+
+}
+.bt2{
+    position: absolute;
+    left: 92%;
+    top: 55%;
+    border-color: white;
+
 }
 .banner2{
     position: relative;
@@ -30,4 +48,93 @@
     top: 60%;
     left: 80%;
 
+}
+#text{
+    position: absolute;
+}
+.bn3{
+    margin-top: 150px;
+    position: relative;
+    text-align: center;
+    color: rgb(226, 230, 227);
+}
+.b2t1{
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    font-size: 3vw;
+    font-weight: 500;
+}
+.b2t2{
+    position: absolute;
+    top: 45%;
+    left:6%;
+    font-size: 2vw;
+    font-weight: 400;
+}
+.b2t3{
+    position: absolute;
+    top: 54%;
+    left: 11%;
+    font-size: 1vw;
+    font-weight: 500;
+}
+.b2b1{
+    position: absolute;
+    top: 63%;
+    left:5% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
+.b2b2{
+    position: absolute;
+    top: 63%;
+    left:16% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
+.bn4{
+    position: relative;
+    text-align: center;
+    color: black;
+}
+.b4t1{
+    position: absolute;
+    top: 35%;
+    left: 83%;
+    font-size: 3vw;
+    font-weight: 500;
+}
+.b4t2{
+    position: absolute;
+    top: 45%;
+    left:85%;
+    font-size: 1vw;
+    font-weight: 400;
+}
+.b4b1{
+    position: absolute;
+    top: 63%;
+    left:80% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
+.b4b2{
+    position: absolute;
+    top: 63%;
+    left:90% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
 }
