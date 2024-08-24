@@ -138,3 +138,33 @@
     font-weight: 600;
     padding: 7px 15px;
 }
+.bn5{
+    position: relative;
+    text-align: center;
+    color: white;
+    text-align: center;
+}
+.b5t1{
+    position: absolute;
+    top: 35%;
+    left: 4%;
+    font-size: 2vw;
+    font-weight: 500;
+}
+.b5t2{
+    position: absolute;
+    top: 45%;
+    left:4%;
+    font-size: 1vw;
+    font-weight: 400;
+}
+.b5b1{
+    position: absolute;
+    top: 55%;
+    left:9% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
