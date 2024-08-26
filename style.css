@@ -11,7 +11,7 @@
     z-index: 10;
 } */
 .banner{
-    padding-bottom: 95px;
+    /* padding-bottom: 0px; */
 }
 .bt{
     position: absolute;
@@ -53,7 +53,7 @@
     position: absolute;
 }
 .bn3{
-    margin-top: 150px;
+    /* margin-top: 150px; */
     position: relative;
     text-align: center;
     color: rgb(226, 230, 227);
@@ -162,6 +162,70 @@
     position: absolute;
     top: 55%;
     left:9% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
+.md{
+    padding: 100px 0px;
+    position: relative;
+    width: 100%
+}
+
+.clrg{
+    background-color: rgb(23, 105, 100);
+    height: 550px;
+    
+    
+}
+.clrgmx{
+    position:absolute;
+    left: 55%;
+    top: 25px;
+    /* height:30%; */
+    width: 100%;
+
+}
+.clrgmy{
+    position: absolute;
+    width: 40%;
+    top: 300px;
+    left: 320px;
+
+}
+.md{
+    color: white;
+}
+.mdt1{
+    position: absolute;
+    top: 19%;
+    left: 8%;
+    font-size: 2vw;
+    font-weight: 500;
+}
+.mdt2{
+    position: absolute;
+    top: 27%;
+    left:8%;
+    font-size: 1vw;
+    font-weight: 400;
+}
+.mdb1{
+    position: absolute;
+    top: 34%;
+    left:8% ;
+    border-style: none;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 7px 15px;
+}
+.mdb2{
+    position: absolute;
+    top: 34%;
+    left:16% ;
     border-style: none;
     color: black;
     font-size: 17px;
