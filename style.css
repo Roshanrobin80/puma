@@ -4,12 +4,25 @@
     padding: 10px;
     text-align: center;
 }
-/* .seude{
-    background-color: darkcyan;
-    padding: 0px;
+.crc{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size:2vw;
+    padding-top: 20px;
+}
+.rimg{
+    width: 100vw;
+    display: flex;
+    justify-content:center;
     padding-bottom: 30px;
-    z-index: 10;
-} */
+}
+#rm{
+    border: 4px solid orange;
+    padding: 4px;
+    margin-left: 20px;
+    
+}
 .banner{
     /* padding-bottom: 0px; */
 }
@@ -231,4 +244,9 @@
     font-size: 17px;
     font-weight: 600;
     padding: 7px 15px;
+}
+.ovl{
+    padding: 100px 0px;
+    position: relative;
+    width: 100%
 }
